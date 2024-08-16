@@ -42,7 +42,7 @@ const githubData =// 20240816201821
 }
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello !')
 })
 
 app.get('/twitter', (req, res) => {
